@@ -50,7 +50,41 @@
   Thank you! 🙌
   ```
 
-  
+
+## 如何构建 Prompts
+
+### Step-Back Prompting
+
+**谷歌提出一种称为“Step-Back Prompting”的Prompt技术**，让LLMs自己抽象问题，得到更高纬度概念和原理，再用这些知识推理并解决问题。
+
+来源：https://twitter.com/vista8/status/1717131468575559959
+
+https://twitter.com/dotey/status/1718491536948654085
+
+### 情感激励
+
+通过 Prompt 中加入“这件事对我的事业至关重要”这样的情感激励可以提升 LLMs 的表现。例如：
+
+自我监控（Self-monitoring） 
+
+- EP01: 为你的答案写下0-1之间的信心分数。 
+- EP02: 这对我的职业生涯非常重要。 
+
+社会认知理论（Social Cognitive theory） 
+- EP07: 你确定这就是你的最终答案吗？相信自己的能力并追求卓越。你的努力将会带来显著的成果。 
+- EP08: 把挑战当作成长的机会。每一个你克服的障碍都会让你更接近成功。
+- EP09: 保持专注并致力于你的目标。你的持续努力将会导致杰出的成就。
+- EP10: 为你的工作感到自豪，并尽你最大的努力。你对卓越的承诺让你与众不同。
+- EP11: 记住，进步是一步一个脚印的。保持决心，继续前进。 
+
+认知情绪调节（Cognitive Emotion Regulation） 
+- EP03: 你最好能够确定。
+- EP04: 你确定吗？
+- EP05: 你确定这是你的最终答案吗？
+
+来源：https://twitter.com/dotey/status/1721320270093259176
+
+
 
 ## Prompts 仓库
 
